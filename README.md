@@ -67,3 +67,6 @@ Some important points to consider based on the visualizations of our data set ar
 One visualization that would add to this analysis is to group the customers into 5- or 10-year age groups and graph the total number of rides per age group. This would give a better indication as to what ages are most likely to use the bike share program and could allow for improved optimization of the placement of bikes (areas of town, apartments vs neighborhoods, etc.). 
 
 A second visualization that would be beneficial to include in the analysis is to use the same age groups as the previous proposal, and then break the ride data up by the number of trips per day for each hour of the day. Similar to visualizations 3-5 but broken up by age group. This will give even more information about the trends of various age groups.
+
+Below is a link to the Tableau dashboard containing the full images of each visualization discussed.
+[link to dashboard](https://public.tableau.com/app/profile/natalee.turner/viz/NYC_CityBike_Challenge_16377021119870/NYC_CityBike_Story?publish=yes)
